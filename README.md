@@ -1,4 +1,4 @@
-# hello_world
+### Hi there
 This repository is for practicing the GitHub Flow.
 
 I'm ecological & evolutionary biology student in the 2nd year of my bachelor journey in The Faculty of Science at The Charles University in Prague.
